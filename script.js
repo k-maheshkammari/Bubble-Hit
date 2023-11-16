@@ -70,5 +70,6 @@ function restart(){
     start()
     time = 60
     document.querySelector(".end").style.display = "none"
+    increseScore = 0
 }
 
